@@ -21,7 +21,7 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 **YouTube Channel — AI Decoded and More**
 
 <p>
-  <a href="https://www.youtube.com/@asimmunawar">
+  <a href="https://www.youtube.com/@asimmunawar/playlists">
     <img src="https://img.shields.io/badge/Watch%20Now-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
   </a>
 </p>
