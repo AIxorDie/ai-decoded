@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 AI Decoded
+# AI Decoded
 
 **Demystifying the black box.  
 Master LLMs and agentic workflows using open-source tools and local models.**
@@ -13,12 +13,12 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls)
 [![Issues Welcome](https://img.shields.io/badge/Issues-welcome-blue.svg)](../../issues)
 [![Stars](https://img.shields.io/github/stars/AIxorDie/ai-decoded?style=social)](https://github.com/AIxorDie/ai-decoded/stargazers)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-AI%20Decoded-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@asimmunawar)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-AI%20Decoded-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@asimmunawar/playlists)
 
 
 <br>
 
-🎥 **YouTube Series — AI Decoded**
+**YouTube Series — AI Decoded**
 
 <p>
   <a href="https://www.youtube.com/@asimmunawar">
@@ -30,7 +30,7 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 
 ---
 
-## ✨ What is this?
+## What is AI Decoded?
 
 **AI Decoded** is a **hands-on lab** for learning modern AI systems:
 
@@ -40,11 +40,11 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 - From **simple tools** to **agentic workflows and tool-calling**
 
 The goal:  
-> 🧩 *Understand what’s happening under the hood – then break it, fix it, and extend it yourself.*
+> *Understand what’s happening under the hood – then break it, fix it, and extend it yourself.*
 
 ---
 
-## 🗺️ Repo Overview
+## Repo Overview
 
 ```text
 ai-decoded/
@@ -62,7 +62,7 @@ ai-decoded/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.10 or newer
@@ -109,6 +109,6 @@ https://github.com/AIxorDie/ai-decoded/blob/main/docs/ide_setup.md
 
 ---
 
-## 📜 License
+## License
 MIT License.
 
