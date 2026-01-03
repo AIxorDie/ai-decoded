@@ -28,7 +28,7 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 
 </div>
 
-## 📚 AI Decoded Playlists
+## AI Decoded Playlists
 
 To make it easier to follow along, I’ve organized the videos into focused playlists:
 
