@@ -18,7 +18,7 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 
 <br>
 
-**YouTube Series — AI Decoded**
+**YouTube Channel — AI Decoded and More**
 
 <p>
   <a href="https://www.youtube.com/@asimmunawar">
@@ -27,6 +27,23 @@ Master LLMs and agentic workflows using open-source tools and local models.**
 </p>
 
 </div>
+
+## 📚 AI Decoded Playlists
+
+To make it easier to follow along, I’ve organized the videos into focused playlists:
+
+<div align="center">
+
+| Playlist | Description |
+|----------|-------------|
+| **[AI Decoded — All Talks](https://www.youtube.com/watch?v=tymeMBcJVMI&list=PLt-aI0fLbqH8vhKcDQehV1pCRuJxCHevE)** | Every video in the AI Decoded series — start here if you want the full journey. |
+| **[LLM Basics](https://www.youtube.com/watch?v=Cm_qmhSEFgs&list=PLt-aI0fLbqH_ci_6z7QAkUzH41yjqTh6u)** | Foundations & core concepts: tokenization, attention, sampling, KV-cache & more. |
+| **[LLM Training](https://www.youtube.com/watch?v=mOmtIjYkAIk&list=PLt-aI0fLbqH829sc4T7w8uPAKd1r0E7Ex)** | How models learn: SFT, reward models, RLHF/GRPO, PPO & real training workflows. |
+| **[Neuro-Symbolic AI](https://www.youtube.com/watch?v=cVRNIRZ5K24&list=PLt-aI0fLbqH8_uc5YjzoVPRkbBpooMfXt)** | Where logic meets learning — reasoning, structure, knowledge graphs & hybrid AI. |
+| **Agents & Tools (Coming Soon)** | Agent workflows, tool-calling, orchestration, planning & autonomous systems. |
+
+</div>
+
 
 ---
 
