@@ -87,7 +87,7 @@ This file demonstrates a simple MCP client that:
 4. Asks natural-language questions and lets the LLM decide when to call tools.
 
 To run this MCP client, install the MCP SDK:
-pip install mcp langchain-ollama langchain-mcp-adapters
+pip install mcp langchain-ollama langchain-mcp-adapters pydantic
 """
 
 import asyncio

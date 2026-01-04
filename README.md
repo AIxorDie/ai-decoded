@@ -40,7 +40,7 @@ To make it easier to follow along, I’ve organized the videos into focused play
 | **[LLM Basics](https://www.youtube.com/watch?v=Cm_qmhSEFgs&list=PLt-aI0fLbqH_ci_6z7QAkUzH41yjqTh6u)** | Foundations & core concepts: tokenization, attention, sampling, KV-cache & more. |
 | **[LLM Training](https://www.youtube.com/watch?v=mOmtIjYkAIk&list=PLt-aI0fLbqH829sc4T7w8uPAKd1r0E7Ex)** | How models learn: SFT, reward models, RLHF/GRPO, PPO & real training workflows. |
 | **[Neuro-Symbolic AI](https://www.youtube.com/watch?v=cVRNIRZ5K24&list=PLt-aI0fLbqH8_uc5YjzoVPRkbBpooMfXt)** | Where logic meets learning — reasoning, structure, knowledge graphs & hybrid AI. |
-| **Agents & Tools (Coming Soon)** | Agent workflows, tool-calling, orchestration, planning & autonomous systems. |
+| **[Agents & Tools](https://www.youtube.com/watch?v=Ne0l8FKf4sg&list=PLt-aI0fLbqH941p9Tki9mNfmwwtyXj3jr)** | Agent workflows, tool-calling, orchestration, planning & autonomous systems. |
 
 </div>
 

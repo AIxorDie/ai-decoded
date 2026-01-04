@@ -11,7 +11,7 @@ Transport: stdio (for use with MultiServerMCPClient).
 Transport: streamable-http (for use with MultiServerMCPClient).
 
 To run this MCP server standalone (outside of MultiServerMCPClient), install the MCP SDK:
-pip install mcp langchain-ollama langchain-mcp-adapters
+pip install mcp langchain-ollama langchain-mcp-adapters pydantic
 """
 
 from __future__ import annotations
@@ -19,7 +19,7 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 from typing import Dict, Any
 
-from mcp.server.fastmcp import FastMCP  # from the official MCP Python SDK
+from mcp.server.fastmcp import FastMCP  # Official MCP Python SDK
 
 # Create the MCP server
 mcp = FastMCP("local-demo")
