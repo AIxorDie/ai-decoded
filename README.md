@@ -72,7 +72,7 @@ ai-decoded/
 │  ├─ agents/            # Tool-calling, agents & workflows (planned/expanding)
 │
 ├─ docs/                 # Slides, diagrams, and reference material
-├─ helping_materials/    # Extra notes, images, helper scripts
+├─ misc/                 # Extra notes, images, helper scripts
 ├─ LICENSE
 └─ README.md
 ```
